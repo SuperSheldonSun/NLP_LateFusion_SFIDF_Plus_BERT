@@ -93,8 +93,11 @@ dmypy.json
 ehthumbs.db
 Thumbs.db
 
-# Large data files (optional - uncomment if needed)
-# data/
-# *.tsv
-# *.vec
-# *.pkl
+# Large data files (excluded from repository)
+data/
+*.tsv
+*.vec
+*.pkl
+cached/
+outputs/
+vectors/
