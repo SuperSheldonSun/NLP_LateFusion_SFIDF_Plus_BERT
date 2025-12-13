@@ -437,8 +437,7 @@ Example BibTeX (edit fields as needed):
 @misc{mindsmall_latefusion_2025,
   title  = {Evaluating Sparse Symbolic Signals and Sentence-BERT for Personalized News Recommendation on MIND-small},
   author = {Yibo Sun and Leo Liu and George Guo},
-  year   = {2025},
-  note   = {Course project repository}
+  year   = {2025}
 }
 ```
 
@@ -446,7 +445,7 @@ Example BibTeX (edit fields as needed):
 
 ## License
 
-MIT (or replace with your intended license).
+MIT.
 
 ```
 ```
